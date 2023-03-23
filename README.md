@@ -1,7 +1,5 @@
-# Tomás Abdias
-
 <div>
-  <a href="tomasabdias22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+ Gmail: <a href="tomasabdias22@gmail.com" target="_blank">tomasabdias22@gmail.com</a>
 </div>
 
 ## Statistics
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasaalima&show_icons=true&theme=dracula&tinclude_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasaalima&layout=compact&theme=dracula&langs_count=6"/>
 </div>
@@ -30,27 +28,27 @@ Here are some ideas to get you started:
 - 🎓 Graduating in Software Engineering - (IFPE - Belo Jardim, Brazil) - 2021 - 2024
 
 ## Main Skills
-<h3 align="center">
-  Tools
-<h3/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,babel" />
-  </a>
 </p>
 <h3 align="center">
-  Front
+  Front-end
 <h3/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,css,sass,bootstrap,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react" />
   </a>
 </p>
   <h3 align="center">
-  Back
+  Back-end
 <h3/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,postgres,mysql,hibernate" />
+    <img src="https://skillicons.dev/icons?i=php,java,laravel,hibernate,postgres,mysql" />
   </a>
 </p>
+    <h3 align="center">
+  Others
+<h3/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs" />
+  </a>
