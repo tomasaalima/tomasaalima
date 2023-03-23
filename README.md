@@ -1,6 +1,6 @@
 <div>
- Gmail: <a href="tomasabdias22@gmail.com" target="_blank">tomasabdias22@gmail.com</a>
- Linkedin: <a href="[tomasabdias22@gmail.com](https://www.linkedin.com/in/tom%C3%A1s-abdias-a7262726b/)" target="_blank">tomasaalima</a>
+ Gmail: <a href="tomasabdias22@gmail.com" target="_blank">tomasabdias22@gmail.com</a><br>
+ Linkedin: <a href="https://www.linkedin.com/in/tom%C3%A1s-abdias-a7262726b/" target="_blank">tomasaalima</a>
 </div>
 
 ## Statistics
