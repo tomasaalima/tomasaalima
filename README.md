@@ -1,10 +1,10 @@
 # Tomás Abdias
 
 <div>
-  <a href="tomasabdias22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+  <a href="tomasabdias22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
 
-## Olá mundo!<br>Bem-vindo ao meu perfil do Github. 😄
+## Statistics
 
 <!--
 **tomasaalima/tomasaalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,19 +26,31 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasaalima&layout=compact&theme=dracula&langs_count=6"/>
 </div>
 
-## Formações
-- 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2024
+## Education
+- 🎓 Graduating in Software Engineering - (IFPE - Belo Jardim, Brazil) - 2021 - 2024
 
-## Principais Habilidades
-<div>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>    
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+## Main Skills
+<h3 align="center">
+  Tools
+<h3/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,babel" />
+  </a>
+</p>
+<h3 align="center">
+  Front
+<h3/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,react,css,sass,bootstrap,tailwindcss" />
+  </a>
+</p>
+  <h3 align="center">
+  Back
+<h3/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,postgres,mysql,hibernate" />
+  </a>
+</p>
