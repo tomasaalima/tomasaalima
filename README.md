@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h3/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,laravel,hibernate,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,php,java,laravel,hibernate,postgres,mysql" />
   </a>
 </p>
     <h3 align="center">
